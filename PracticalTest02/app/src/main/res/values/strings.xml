@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PracticalTest02</string>
+    <string name="server_port">Server Port</string>
+    <string name="connect">"Connect "</string>
+</resources>
